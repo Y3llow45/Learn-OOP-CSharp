@@ -65,7 +65,6 @@ namespace Collections
             hashtable.Remove("three");
             foreach (DictionaryEntry entry in hashtable)
             {
-                Console.WriteLine("Key: {0}, Value: {1}", entry.Key, entry.Value);
                 if ((int)entry.Value % 2 == 0) 
                 {
                     evenNums.Add((int)entry.Value);

@@ -15,4 +15,9 @@ Materials for teachers
 9. Constructors
 
 ### 12th grade:
-1. soon
+1. OOP
+2. Inheritance
+3. Encapsulation 
+4. Abstraction
+5. Polymorphism
+6. OOPApp
